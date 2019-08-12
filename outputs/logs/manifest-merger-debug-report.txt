@@ -1,0 +1,193 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\81148729c912afe906fa19f26d157a49\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\2988475eab51bb9bd50f179043da7b2b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\2662dc4c06379df0e983cc19bc0bd68c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\636bcfeeee22428fded5e087d5258d40\AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\be12c164964c3e8dbc603edeaf6514fb\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\9c7f76f956822b1b1344e4a0b03f381f\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\054a56598fe64505c87e1c87e25a1141\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\d32a69f628b66c013e2f57e79f1cb679\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\b53cec469b7090321dd62dd979da60bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\df725532f44a003896867c68d50a3d17\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\4e74b5ce40962a6f83034d759ddee780\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\0234a796e2d4082f898615128592b5d5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\6258100053e69cf9d6f3602d6d297e26\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\3c0fbc1143f6f0e813d09bd00d7503eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\98c420816c93794b47843a37e20fc82a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\f85a69fd485c03b7f82713632bde096b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\81d1e96e363a3a3c230511b29cddb10f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\b45ce6272f81d51f1d254a61d55ecf07\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\5e5d4bc9681b2712f344572c195f9a56\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\5a852e5a53841da12f5fe5aa90d4ab02\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\16141023f18b1348ea29eca952046df7\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\2bd410ea62d866b2e80d1dd9c6e4d27a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\b084e16e20b28d8f55357cde440f7f72\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\8a3eb7e4191c26f7e76542be92d9b3cb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\6c38c19192d8d828eddbce84ea2a1104\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\3196cf4f1a9a15a23294b01346f51ffc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\28c392bf3adfd36bd072022fad91e4d7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\05703b3d2b4c40ab1d48564067811bd2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\0e82329940191da83c2ab4a49b8549ca\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\ee19a08a612c834359ec5fb8c5b0fd35\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\41bc583374d948e35f508c532086c83a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\9179efefcb358cdf4ed28219147cc494\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml:5:5-33:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\2988475eab51bb9bd50f179043da7b2b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\2988475eab51bb9bd50f179043da7b2b\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\be12c164964c3e8dbc603edeaf6514fb\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\be12c164964c3e8dbc603edeaf6514fb\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\9c7f76f956822b1b1344e4a0b03f381f\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\9c7f76f956822b1b1344e4a0b03f381f\AndroidManifest.xml:10:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\5a852e5a53841da12f5fe5aa90d4ab02\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\5a852e5a53841da12f5fe5aa90d4ab02\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\16141023f18b1348ea29eca952046df7\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\16141023f18b1348ea29eca952046df7\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\b084e16e20b28d8f55357cde440f7f72\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\b084e16e20b28d8f55357cde440f7f72\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\5a852e5a53841da12f5fe5aa90d4ab02\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.coffee.DetailCoffee
+ADDED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:parentActivityName
+		ADDED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml:13:13-55
+	android:name
+		ADDED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml:12:19-47
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml:14:13-16:49
+	android:value
+		ADDED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml:16:17-46
+	android:name
+		ADDED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml:15:17-63
+activity#com.example.coffee.MainActivity
+ADDED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml:19:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.example.coffee.AboutActivity
+ADDED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml:26:9-32:20
+	android:parentActivityName
+		ADDED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml:28:13-55
+	android:name
+		ADDED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml:27:13-42
+uses-sdk
+INJECTED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\81148729c912afe906fa19f26d157a49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\81148729c912afe906fa19f26d157a49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\2988475eab51bb9bd50f179043da7b2b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\2988475eab51bb9bd50f179043da7b2b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\2662dc4c06379df0e983cc19bc0bd68c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\2662dc4c06379df0e983cc19bc0bd68c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\636bcfeeee22428fded5e087d5258d40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\636bcfeeee22428fded5e087d5258d40\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\be12c164964c3e8dbc603edeaf6514fb\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\be12c164964c3e8dbc603edeaf6514fb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\9c7f76f956822b1b1344e4a0b03f381f\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\9c7f76f956822b1b1344e4a0b03f381f\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\054a56598fe64505c87e1c87e25a1141\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\054a56598fe64505c87e1c87e25a1141\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\d32a69f628b66c013e2f57e79f1cb679\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\d32a69f628b66c013e2f57e79f1cb679\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\b53cec469b7090321dd62dd979da60bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\b53cec469b7090321dd62dd979da60bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\df725532f44a003896867c68d50a3d17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\df725532f44a003896867c68d50a3d17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\4e74b5ce40962a6f83034d759ddee780\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\4e74b5ce40962a6f83034d759ddee780\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\0234a796e2d4082f898615128592b5d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\0234a796e2d4082f898615128592b5d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\6258100053e69cf9d6f3602d6d297e26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\6258100053e69cf9d6f3602d6d297e26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\3c0fbc1143f6f0e813d09bd00d7503eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\3c0fbc1143f6f0e813d09bd00d7503eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\98c420816c93794b47843a37e20fc82a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\98c420816c93794b47843a37e20fc82a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\f85a69fd485c03b7f82713632bde096b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\f85a69fd485c03b7f82713632bde096b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\81d1e96e363a3a3c230511b29cddb10f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\81d1e96e363a3a3c230511b29cddb10f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\b45ce6272f81d51f1d254a61d55ecf07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\b45ce6272f81d51f1d254a61d55ecf07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\5e5d4bc9681b2712f344572c195f9a56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\5e5d4bc9681b2712f344572c195f9a56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\5a852e5a53841da12f5fe5aa90d4ab02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\5a852e5a53841da12f5fe5aa90d4ab02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\16141023f18b1348ea29eca952046df7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\16141023f18b1348ea29eca952046df7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\2bd410ea62d866b2e80d1dd9c6e4d27a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\2bd410ea62d866b2e80d1dd9c6e4d27a\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\b084e16e20b28d8f55357cde440f7f72\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\b084e16e20b28d8f55357cde440f7f72\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\8a3eb7e4191c26f7e76542be92d9b3cb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\8a3eb7e4191c26f7e76542be92d9b3cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\6c38c19192d8d828eddbce84ea2a1104\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\6c38c19192d8d828eddbce84ea2a1104\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\3196cf4f1a9a15a23294b01346f51ffc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\3196cf4f1a9a15a23294b01346f51ffc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\28c392bf3adfd36bd072022fad91e4d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\28c392bf3adfd36bd072022fad91e4d7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\05703b3d2b4c40ab1d48564067811bd2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\05703b3d2b4c40ab1d48564067811bd2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\0e82329940191da83c2ab4a49b8549ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\0e82329940191da83c2ab4a49b8549ca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\ee19a08a612c834359ec5fb8c5b0fd35\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\ee19a08a612c834359ec5fb8c5b0fd35\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\41bc583374d948e35f508c532086c83a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\41bc583374d948e35f508c532086c83a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\9179efefcb358cdf4ed28219147cc494\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\pambu\.gradle\caches\transforms-2\files-2.1\9179efefcb358cdf4ed28219147cc494\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pambu\AndroidStudioProjects\Coffee2\app\src\main\AndroidManifest.xml
